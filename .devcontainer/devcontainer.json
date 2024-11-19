@@ -14,11 +14,6 @@
              "GitHub.copilot",
              "ms-azuretools.vscode-azurestorage"
          ]
-     },
-     "codespaces": {
-         "openFiles": [
-             "codespace.md"
-         ]
      }
  }
  ,
