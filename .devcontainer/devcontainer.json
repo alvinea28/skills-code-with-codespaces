@@ -22,5 +22,5 @@
      }
  }
  ,
- "postCreateCommand": "code --open codespace.md"
+ "postCreateCommand": "code --open codespaces.md && sleep 1 && code --command markdown.showPreview"
 }
