@@ -12,7 +12,7 @@
      "vscode": {
          "extensions": [
              "GitHub.copilot",
-             "ms-azuretool.vscode-azurestorage"
+             "ms-azuretools.vscode-azurestorage"
          ]
      },
      "codespaces": {
