@@ -21,5 +21,6 @@
          ]
      }
  }
-  
+ ,
+ "postCreateCommand": "code --open codespace.md"
 }
